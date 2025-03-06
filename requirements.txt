@@ -1,4 +1,4 @@
 streamlit
-pint
+pint==0.24.4
 pandas
 plotly
